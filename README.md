@@ -8,5 +8,5 @@ Slides and curriculum notes for an in person two hour middle school web design w
 **Objective:** By the end of this workshop students will have a foundational understanding of what HTML is and the general syntax involved. Together we will structure an HTML document, add content based on the [Tuts+ Town site](http://tutsplustown.com/), and quickly review some basic CSS. Students will leave with their work in progress files and instructed to complete the series online at home to get their work on the web.<br> 
 **Topics Covered:** How the web works, folder structure, HTML structure and content, basic CSS intro<br>
 **Presentation Format:** slides, demos, hands on building<br>
-**Materials:** Computers, [Atom](https://atom.io/) text editor (pre-installed), [Chrome](https://www.google.com/intl/en/chrome/browser/desktop/index.html#brand=CHMB&utm_campaign=en&utm_source=en-ha-na-us-sk&utm_medium=ha) (pre-installed), base folder with .html, .css, and images on flash drives<br>
+**Materials:** Computers, [Atom](https://atom.io/) text editor (pre-installed), [Chrome](https://www.google.com/intl/en/chrome/browser/desktop/index.html#brand=CHMB&utm_campaign=en&utm_source=en-ha-na-us-sk&utm_medium=ha) (pre-installed), base folder (`tutsfolder`) with .html, .css, and images on flash drives<br>
 **Prerequisites:** None<br>
