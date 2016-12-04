@@ -18,7 +18,7 @@
 
 ## Folders: Our Structure (Let’s open up our folders!)
 * For our website we have an HTML and CSS file with an images folder containing 4 images. 
-* The “file extention” references to the descriptive letters that come after the period in a file name. 
+* The “file extension” references to the descriptive letters that come after the period in a file name. 
 
 ## What is HTML and CSS?
 * Hypertext markup language is a way of structuring a document in a way that the browser can understand. For example, we will learn that we can’t just type up a paragraph in our text editors and expect the browser to understand what it is; we have to put it in a paragraph element!
