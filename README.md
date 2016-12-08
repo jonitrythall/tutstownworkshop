@@ -4,7 +4,7 @@ Slides and curriculum notes for an in person two hour middle school web design w
 **Title:** Web Design Workshop: Creating Our First Website<br>
 **Grade Level:** 6-8<br>
 **Total Time:** 2 hours<br>
-**Curriculum:** Based on the [Tuts+ Town Web Design for Kids<br> series](http://webdesign.tutsplus.com/series/web-design-for-kids--cms-823) by Joni Trythall<br>
+**Curriculum:** Based on the [Tuts+ Town Web Design for Kids series](http://webdesign.tutsplus.com/series/web-design-for-kids--cms-823) by Joni Trythall<br>
 **Objective:** By the end of this workshop students will have a foundational understanding of what HTML is and the general syntax involved. Together we will structure an HTML document, add content based on the [Tuts+ Town site](http://tutsplustown.com/), and quickly review some basic CSS. Students will leave with their work in progress files and instructed to complete the series online at home to get their work on the web.<br> 
 **Topics Covered:** How the web works, folder structure, HTML structure and content, basic CSS intro<br>
 **Presentation Format:** slides, demos, hands on building<br>
