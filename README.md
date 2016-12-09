@@ -1,5 +1,7 @@
 # Tuts+ Town Workshop
-Slides and curriculum notes for an in person two hour middle school web design workshop based on the [Tuts+ Town curriculum](http://webdesign.tutsplus.com/series/web-design-for-kids--cms-823) for kids. 
+Resources and materials for an in person 2 hour middle school web design workshop based on the [Tuts+ Town curriculum](http://webdesign.tutsplus.com/series/web-design-for-kids--cms-823) for kids.
+
+Read more about this curriculum and some general advice on conducting workshops [here](#).
 
 **Title:** Web Design Workshop: Creating Our First Website<br>
 **Grade Level:** 6-8<br>
